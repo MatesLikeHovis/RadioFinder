@@ -1,0 +1,23 @@
+.header {
+    display: flex;
+    flex-direction: column;
+    font-family: monospace;
+}
+
+.heading {
+    align-self: center;
+}
+
+.subheading {
+    align-self: center;
+}
+
+.horiz {
+    align-self: center;
+    border: 2px solid black;
+    width: 80%;
+}
+
+.tagline {
+    align-self: center;
+}
